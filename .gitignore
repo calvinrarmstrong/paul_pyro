@@ -77,4 +77,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Logs
-Paul_Pyro/Saved/Logs/*.log
+Paul_Pyro/Saved/Logs/**/*.log
